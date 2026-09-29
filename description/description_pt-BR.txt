@@ -1,0 +1,1 @@
+Busca JSON de qualquer API REST (GET ou POST) e transforma cada array da resposta em uma tabela nas células do Calc. Adiciona o menu "Dados da API", com Importar, Atualizar e Remover vínculos. Cabeçalhos marcados como Sensível nunca são salvos no documento.

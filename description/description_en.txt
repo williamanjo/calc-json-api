@@ -1,0 +1,1 @@
+Fetch JSON from any REST API (GET or POST) and turn every array in the response into a table in your Calc cells. Adds the "API Data" menu with Import, Refresh and Remove links. Headers marked as Sensitive are never saved in the document.
